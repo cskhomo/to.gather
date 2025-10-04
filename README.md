@@ -1,5 +1,10 @@
 # To Gather
 
+<div align="center">
+
+ by [Chris Khomo](https://github.com/cskhomo) & [Kabelo Rabalao](https://github.com/anti00noir)
+</div>
+
 2D puzzle-platformer game built with the Godot Engine, where you play as Ant Prime, the first servant of the queen. In this game, your journey begins as a lone explorer, gathering resources to sustain the queen and fuel the growth of the colony. As the colony expands, your role evolves from gathering to guiding, shaping the world to enable the colony to thrive collectively.
 
 ## Overview

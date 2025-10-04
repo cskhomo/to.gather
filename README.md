@@ -19,6 +19,3 @@ At the start, Ant Prime navigates a challenging world alone, moving objects, ove
 
 - **Engine**: Godot
 - **Language**: GDScript
-## License
-
-(TBD: Specify the license for the project, e.g., MIT, GPL, or proprietary.)
